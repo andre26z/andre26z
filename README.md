@@ -37,5 +37,5 @@ I'm **fluent in Portuguese and English**, enabling me to collaborate effectively
 
 ---
 
-## 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devandreaugustodossantos/)
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devandreaugustodossantos/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreaugustodossantos@gmail.com)
